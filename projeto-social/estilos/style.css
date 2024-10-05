@@ -29,14 +29,34 @@ section#tela {
     left: 50%;
     transform: translate(-50%, -50%);
     background: url(../imagens/frame-iphone.png) no-repeat; 
-    width: 320px;
-    height: 580px;
+    width: 360px;
+    height: 653px;
 }
 
-iframe {
+iframe#icon {
     position: relative;
-    top: 101px;
-    left: 54px;
-    width: 208px;
-    height: 369px;
+    top: 113px;
+    left: 60px;
+    width: 235px;
+    height: 416px;
 }
+
+section#social {
+    text-align: right;
+}
+
+section#social img{
+    width: 50px;
+    margin: 10px;
+    border-radius: 50%;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.51);
+    box-sizing: border-box;
+}
+
+section#social img:hover {
+    border: 2px solid white;
+    transform: translate(-3px, -3px);
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.51);
+    transition: transform .3s, border .2s;
+}
+
