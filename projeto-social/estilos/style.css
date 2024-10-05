@@ -29,16 +29,16 @@ section#tela {
     left: 50%;
     transform: translate(-50%, -50%);
     background: url(../imagens/frame-iphone.png) no-repeat; 
-    width: 360px;
-    height: 653px;
+    width: 340px;
+    height: 617px;
 }
 
 iframe#icon {
     position: relative;
-    top: 113px;
-    left: 60px;
-    width: 235px;
-    height: 416px;
+    top: 106px;
+    left: 56px;
+    width: 224px;
+    height: 394px;
 }
 
 section#social {
