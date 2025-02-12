@@ -1,1 +1,3 @@
-Acesse projetos de minha autoria através deste repositório.
+# Projetos-autorais
+***
+Acesse projetos de **_minha autoria_** através deste repositório.
